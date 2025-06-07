@@ -12,7 +12,8 @@
 - 🎂 Product & inventory tracking  
 - 🧾 Customer orders & billing  
 - 🧑‍💼 Admin control panels  
-- 📊 Sales and stock reporting  
+- 📊 Sales and stock reporting
+- 🔐 User Authentication
 
 This project highlights my experience with .NET desktop development, relational databases, and UI/UX for business systems.
 
