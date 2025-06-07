@@ -1,0 +1,101 @@
+c:\users\student\documents\visual studio 2010\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\bin\Debug\DataBase.mdf
+c:\users\student\documents\visual studio 2010\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\bin\Debug\DataBase_log.ldf
+c:\users\student\documents\visual studio 2010\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\bin\Debug\s.exe
+c:\users\student\documents\visual studio 2010\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\bin\Debug\s.pdb
+c:\users\student\documents\visual studio 2010\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\bin\Debug\s.xml
+c:\users\student\documents\visual studio 2010\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Form1.resources
+c:\users\student\documents\visual studio 2010\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Resources.resources
+c:\users\student\documents\visual studio 2010\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.vbproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2010\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\s.exe
+c:\users\student\documents\visual studio 2010\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\s.xml
+c:\users\student\documents\visual studio 2010\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\s.pdb
+c:\users\student\documents\visual studio 2010\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Home.resources
+C:\Users\Student\Documents\Visual Studio 2010\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Add_Order_Details.resources
+C:\Users\Student\Documents\Visual Studio 2010\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Delete_Order_Details.resources
+C:\Users\Student\Documents\Visual Studio 2010\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Search_Order_Details.resources
+C:\Users\Student\Documents\Visual Studio 2010\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Update_Order_Details.resources
+C:\Users\Student\Documents\Visual Studio 2010\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.View_Order_Details.resources
+C:\Users\Student\Documents\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\s.exe
+C:\Users\Student\Documents\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\s.xml
+C:\Users\Student\Documents\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\s.pdb
+C:\Users\Student\Documents\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\bin\Debug\DataBase.mdf
+C:\Users\Student\Documents\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\bin\Debug\DataBase_log.ldf
+C:\Users\Student\Documents\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\bin\Debug\s.exe
+C:\Users\Student\Documents\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\bin\Debug\s.pdb
+C:\Users\Student\Documents\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\bin\Debug\s.xml
+C:\Users\Student\Documents\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Add_Order_Details.resources
+C:\Users\Student\Documents\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Delete_Order_Details.resources
+C:\Users\Student\Documents\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Form1.resources
+C:\Users\Student\Documents\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Home.resources
+C:\Users\Student\Documents\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Resources.resources
+C:\Users\Student\Documents\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Search_Order_Details.resources
+C:\Users\Student\Documents\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Update_Order_Details.resources
+C:\Users\Student\Documents\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.View_Order_Details.resources
+C:\Users\Student\Documents\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.vbproj.GenerateResource.Cache
+C:\Users\Student\Documents\Visual Studio 2010\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Invoice_Detalis.resources
+C:\Users\Student\Documents\Visual Studio 2010\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.INVOICE_INFORMATION.resources
+C:\Users\Student\Documents\Visual Studio 2010\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.STOCK_DETAILS.resources
+C:\Users\Student\Documents\Visual Studio 2010\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Stock_Master.resources
+C:\Users\Student\Desktop\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\s.exe
+C:\Users\Student\Desktop\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\s.xml
+C:\Users\Student\Desktop\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\s.pdb
+C:\Users\Student\Desktop\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\bin\Debug\DataBase.mdf
+C:\Users\Student\Desktop\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\bin\Debug\DataBase_log.ldf
+C:\Users\Student\Desktop\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\bin\Debug\s.exe
+C:\Users\Student\Desktop\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\bin\Debug\s.pdb
+C:\Users\Student\Desktop\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\bin\Debug\s.xml
+C:\Users\Student\Desktop\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Add_Order_Details.resources
+C:\Users\Student\Desktop\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Delete_Order_Details.resources
+C:\Users\Student\Desktop\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Form1.resources
+C:\Users\Student\Desktop\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Home.resources
+C:\Users\Student\Desktop\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Invoice_Detalis.resources
+C:\Users\Student\Desktop\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.INVOICE_INFORMATION.resources
+C:\Users\Student\Desktop\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Resources.resources
+C:\Users\Student\Desktop\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Search_Order_Details.resources
+C:\Users\Student\Desktop\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.STOCK_DETAILS.resources
+C:\Users\Student\Desktop\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Stock_Master.resources
+C:\Users\Student\Desktop\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Update_Order_Details.resources
+C:\Users\Student\Desktop\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.View_Order_Details.resources
+C:\Users\Student\Desktop\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Raj Resumes\Projects\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\s.exe
+C:\Users\ASUS\Documents\Raj Resumes\Projects\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\s.xml
+C:\Users\ASUS\Documents\Raj Resumes\Projects\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\s.pdb
+C:\Users\ASUS\Documents\Raj Resumes\Projects\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\bin\Debug\DataBase.mdf
+C:\Users\ASUS\Documents\Raj Resumes\Projects\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\bin\Debug\DataBase_log.ldf
+C:\Users\ASUS\Documents\Raj Resumes\Projects\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\bin\Debug\s.exe
+C:\Users\ASUS\Documents\Raj Resumes\Projects\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\bin\Debug\s.pdb
+C:\Users\ASUS\Documents\Raj Resumes\Projects\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\bin\Debug\s.xml
+C:\Users\ASUS\Documents\Raj Resumes\Projects\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Add_Order_Details.resources
+C:\Users\ASUS\Documents\Raj Resumes\Projects\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Delete_Order_Details.resources
+C:\Users\ASUS\Documents\Raj Resumes\Projects\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Form1.resources
+C:\Users\ASUS\Documents\Raj Resumes\Projects\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Home.resources
+C:\Users\ASUS\Documents\Raj Resumes\Projects\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Invoice_Detalis.resources
+C:\Users\ASUS\Documents\Raj Resumes\Projects\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.INVOICE_INFORMATION.resources
+C:\Users\ASUS\Documents\Raj Resumes\Projects\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Resources.resources
+C:\Users\ASUS\Documents\Raj Resumes\Projects\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Search_Order_Details.resources
+C:\Users\ASUS\Documents\Raj Resumes\Projects\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.STOCK_DETAILS.resources
+C:\Users\ASUS\Documents\Raj Resumes\Projects\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Stock_Master.resources
+C:\Users\ASUS\Documents\Raj Resumes\Projects\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Update_Order_Details.resources
+C:\Users\ASUS\Documents\Raj Resumes\Projects\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.View_Order_Details.resources
+C:\Users\ASUS\Documents\Raj Resumes\Projects\TY\PC-66\113_Ronak\PROJECT II\Project\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Raj Resumes\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\s.exe
+C:\Users\ASUS\Documents\Raj Resumes\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\s.xml
+C:\Users\ASUS\Documents\Raj Resumes\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\s.pdb
+C:\Users\ASUS\Documents\Raj Resumes\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\bin\Debug\DataBase.mdf
+C:\Users\ASUS\Documents\Raj Resumes\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\bin\Debug\DataBase_log.ldf
+C:\Users\ASUS\Documents\Raj Resumes\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\bin\Debug\s.exe
+C:\Users\ASUS\Documents\Raj Resumes\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\bin\Debug\s.pdb
+C:\Users\ASUS\Documents\Raj Resumes\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\bin\Debug\s.xml
+C:\Users\ASUS\Documents\Raj Resumes\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Add_Order_Details.resources
+C:\Users\ASUS\Documents\Raj Resumes\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Delete_Order_Details.resources
+C:\Users\ASUS\Documents\Raj Resumes\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Form1.resources
+C:\Users\ASUS\Documents\Raj Resumes\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Home.resources
+C:\Users\ASUS\Documents\Raj Resumes\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Invoice_Detalis.resources
+C:\Users\ASUS\Documents\Raj Resumes\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.INVOICE_INFORMATION.resources
+C:\Users\ASUS\Documents\Raj Resumes\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Resources.resources
+C:\Users\ASUS\Documents\Raj Resumes\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Search_Order_Details.resources
+C:\Users\ASUS\Documents\Raj Resumes\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.STOCK_DETAILS.resources
+C:\Users\ASUS\Documents\Raj Resumes\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Stock_Master.resources
+C:\Users\ASUS\Documents\Raj Resumes\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.Update_Order_Details.resources
+C:\Users\ASUS\Documents\Raj Resumes\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.View_Order_Details.resources
+C:\Users\ASUS\Documents\Raj Resumes\Projects\Cake_Shop_Management_System\Cake_Shop_Management_System\obj\x86\Debug\Cake_Shop_Management_System.vbproj.GenerateResource.Cache

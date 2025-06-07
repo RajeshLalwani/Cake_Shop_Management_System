@@ -1,0 +1,100 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+s
+</name>
+</assembly>
+<members>
+<member name="P:Cake_Shop_Management_System.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Cake_Shop_Management_System.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Cake_Shop_Management_System.My.Resources.Resources._01daa135_7594_47e1_8171_bb69788bfedf">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cake_Shop_Management_System.My.Resources.Resources._113">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cake_Shop_Management_System.My.Resources.Resources._1131">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cake_Shop_Management_System.My.Resources.Resources._1132">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cake_Shop_Management_System.My.Resources.Resources._12638975">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cake_Shop_Management_System.My.Resources.Resources._126389751">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cake_Shop_Management_System.My.Resources.Resources._126389752">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cake_Shop_Management_System.My.Resources.Resources._126389753">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cake_Shop_Management_System.My.Resources.Resources._18_Ingredients_and_utensils_for_baking__blue_background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cake_Shop_Management_System.My.Resources.Resources._2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cake_Shop_Management_System.My.Resources.Resources._21">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cake_Shop_Management_System.My.Resources.Resources._3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cake_Shop_Management_System.My.Resources.Resources._31">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cake_Shop_Management_System.My.Resources.Resources.Background_Image_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cake_Shop_Management_System.My.Resources.Resources.ChatGPT_Image_Jun_7__2025__05_23_17_PM">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cake_Shop_Management_System.My.Resources.Resources.OIP">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cake_Shop_Management_System.My.Resources.Resources.OIP1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cake_Shop_Management_System.My.Resources.Resources.ronak">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cake_Shop_Management_System.My.Resources.Resources.WhatsApp_Image_2025_06_07_at_17_09_13_f50dabd5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Cake_Shop_Management_System.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
