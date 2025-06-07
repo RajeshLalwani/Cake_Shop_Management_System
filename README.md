@@ -1,27 +1,27 @@
-# ⛽ Petrol Pump Management System
+# 🎂 Cake Shop Management System
 
-![C#](https://img.shields.io/badge/Language-C%23-blue)
+![Visual Basic](https://img.shields.io/badge/Language-VB.NET-blueviolet)
 ![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-red)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 
 ## 📌 Project Description
 
-**Petrol Pump Management System** is a Windows desktop application developed using **C#** and **SQL Server**. This system is designed to streamline the operations of a petrol pump, including:
+**Cake Shop Management System** is a Windows Forms application built using **VB.NET** and **SQL Server (.mdf)**. It streamlines bakery operations by managing:
 
-- 🛢️ Fuel inventory management
-- 💰 Sales and billing processes
-- 👥 Customer and staff management
-- 📊 Reporting and analytics
+- 🎂 Product & inventory tracking  
+- 🧾 Customer orders & billing  
+- 🧑‍💼 Admin control panels  
+- 📊 Sales and stock reporting  
 
-The application aims to enhance efficiency, reduce manual errors, and provide real-time data insights for better decision-making.
+This project highlights my experience with .NET desktop development, relational databases, and UI/UX for business systems.
 
 ---
 
 ## 💻 Tech Stack
 
-- **Frontend**: C# (Windows Forms)
-- **Backend**: SQL Server
+- **Frontend**: VB.NET (Windows Forms)
+- **Backend**: SQL Server (.mdf service-based)
 - **IDE**: Visual Studio
 
 ---
@@ -30,21 +30,18 @@ The application aims to enhance efficiency, reduce manual errors, and provide re
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/RajeshLalwani/PetrolPump_Management_System.git
+   git clone https://github.com/RajeshLalwani/Cake_Shop_Management_System.git
    ```
 
-2. **Open in Visual Studio:**
-   - Navigate to the cloned directory.
-   - Open the `.sln` file using Visual Studio (2019 or later recommended).
+2. **Open in Visual Studio**  
+   Open the `.sln` file using Visual Studio (2019 or later recommended).
 
-3. **Set up the database:**
-   - Ensure SQL Server is installed on your machine.
-   - Attach the provided `.mdf` database file to your SQL Server instance.
-   - Update the connection string in the application's configuration file (`App.config`) if necessary.
+3. **Attach the database:**
+   - Locate `Cake_Shop_DB.mdf` in the project folder
+   - Use SQL Server Management Studio (SSMS) to attach the database
+   - Update the connection string in `App.config` if needed
 
-4. **Build and run the application:**
-   - Build the solution to restore any dependencies.
-   - Run the application to start managing petrol pump operations.
+4. **Build and Run the Project**
 
 ---
 
@@ -52,20 +49,20 @@ The application aims to enhance efficiency, reduce manual errors, and provide re
 
 > _Replace the placeholder image below with an actual screenshot or screen recording of your application._
 
-![App Screenshot](https://via.placeholder.com/800x400.png?text=Petrol+Pump+Management+System+Demo)
+![App Screenshot](https://via.placeholder.com/800x400.png?text=Cake+Shop+Management+System+Demo)
 
 ---
 
 ## 📂 Folder Structure
 
 ```
-PetrolPump_Management_System/
+Cake_Shop_Management_System/
 ├── bin/
 ├── obj/
 ├── App.config
-├── MainForm.cs
-├── Database/
-│   └── PetrolPump_DB.mdf
+├── FormLogin.vb
+├── FormDashboard.vb
+├── Cake_Shop_DB.mdf
 └── ...
 ```
 
